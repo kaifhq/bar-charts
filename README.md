@@ -1,4 +1,4 @@
-# 📊 Kizma bar charts
+# 📊 Kaif bar charts
 
 Rechart-style bar charts that weighs less than 1kb!!!
 
