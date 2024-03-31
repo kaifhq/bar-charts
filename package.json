@@ -1,0 +1,14 @@
+{
+  "name": "kaif-bar-charts",
+  "version": "0.0.0",
+  "description": "Rechart-style bar charts for Kaif",
+  "main": "dist.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"MonkaW\"",
+    "build": "esbuild index.js --minify --outfile=dist.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.2"
+  }
+}
