@@ -1,6 +1,6 @@
 {
   "name": "kaif-bar-charts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rechart-style bar charts for Kaif",
   "main": "dist.js",
   "license": "MIT",
