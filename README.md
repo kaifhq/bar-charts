@@ -8,7 +8,7 @@ Rechart-style bar charts that weighs less than 1kb!!!
 /** @jsx Kaif.h @jsxFrag Kaif.Fragment */
 import Kaif from 'kaif'
 
-import BarChart from 'bar-charts'
+import BarChart from 'kaif-bar-charts'
 
 const data = [
   ['Jan', 1367],
