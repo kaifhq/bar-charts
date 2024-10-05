@@ -1,7 +1,7 @@
 const labelize=(n)=>n>=1e7?(n/1e6|0)+'m':n>=1e4?(n/1e3|0)+'k':n
 
 export default ({data: d, ...rest}) => {
-  let T=J='',
+  let T='', J='',
   N=d.length,
   max=d.reduce((a,i)=>a>i[1]?a:i[1]),
   B=Math.exp((0|Math.log10(max))*Math.LN10),
